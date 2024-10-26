@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-Hey, my name is Ajayi Demilade, I'm from Nigeria
+my name is Ajayi Demilade, I'm from Nigeria
 
 - 🔭 I’m currently working on a to-do list
 - 🌱 I’m currently learning JavaScript and NodeJS
@@ -10,4 +8,3 @@ Hey, my name is Ajayi Demilade, I'm from Nigeria
 - 📫 How to reach me: twitter(X): https://x.com/demiinferno
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a writer, and I love pets but i'm scared to keep them cus i know i'd probably watch them grow old and die, it's so sad!
--->
